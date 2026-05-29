@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://lkbb.cc/7cc2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🐶_ИГРАТЬ_В_THE_BIG_DOG_HOUSE_С_БОНУСОМ-ff007f?style=for-the-badge&labelColor=111827&logoColor=white" alt="Играть в The Big Dog House с промокодом RED20" width="600" />
+    <img src="https://img.shields.io/badge/🐶_ИГРАТЬ_В_THE_BIG_DOG_HOUSE-ff007f?style=for-the-badge&labelColor=111827&logoColor=white" alt="Играть в The Big Dog House с промокодом RED20" width="600" />
   </a>
 </div>
 
